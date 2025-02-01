@@ -25,5 +25,7 @@
 
         Console.WriteLine("Hello, " + myFirstName + " " + myLastName);
 
+        Console.ReadLine();
+
     }
 }
